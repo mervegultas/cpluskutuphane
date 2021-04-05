@@ -1,2 +1,2 @@
-# cpluskutuphane
-C++ diliyle yazılmış bir konsol kütüphanesi
+# cplusotel
+C++ diliyle yazılmış bir konsol otel otomasyonu.
