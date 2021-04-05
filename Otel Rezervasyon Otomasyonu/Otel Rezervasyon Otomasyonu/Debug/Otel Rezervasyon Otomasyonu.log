@@ -1,0 +1,9 @@
+﻿  Otel Rezervasyon Otomasyonu.cpp
+C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu.cpp(213,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu.cpp(481,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu.cpp(754,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu.cpp(865,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu.cpp(107): warning C4715: 'musteri::kayitNoBul': tüm denetim yolları değer döndürmez
+C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu.cpp(375): warning C4715: 'personel::kayitNoBul': tüm denetim yolları değer döndürmez
+C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu\Otel Rezervasyon Otomasyonu.cpp(645): warning C4715: 'oda::odaNoBul': tüm denetim yolları değer döndürmez
+  Otel Rezervasyon Otomasyonu.vcxproj -> C:\Users\merve\OneDrive\Masaüstü\Otel Rezervasyon Otomasyonu\Debug\Otel Rezervasyon Otomasyonu.exe
