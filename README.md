@@ -1,2 +1,2 @@
 # cplusotel
-C++ diliyle yazılmış bir konsol otel otomasyonu
+C++ diliyle yazılmış bir konsol otel otomasyonu.
